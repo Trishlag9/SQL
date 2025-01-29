@@ -55,3 +55,10 @@ Purpose: Analyze spending behavior on weekends.
 
 Query: Find the city that took the least number of days to reach its 500th transaction from the first recorded transaction.
 Purpose: Measure transaction growth rates across cities.
+
+# Instagram Data Analysis 
+
+## SQL Queries
+
+This project analyzes Instagram post data using SQL to extract insights related to impressions, engagement, missing data, distribution, trends, and outliers.
+
