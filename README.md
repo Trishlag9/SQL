@@ -7,6 +7,8 @@ Welcome to my SQL portfolio showcasing three end-to-end analysis projects across
 
 ### Key Highlights:
 
+Broke down json file into subfiles, uploaded them to AWS cloud,queried in snowflake
+
 Split multi-valued category data and counted businesses per category.
 Identified top users reviewing "Restaurants".
 Found most popular business categories by number of reviews.
